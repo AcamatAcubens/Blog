@@ -2,7 +2,7 @@
 
 ## 1 – Antrieb und Anspruch
 
-Nach reiflicher Überlegung habe mich dazu entschlossen, einen Blog zu betreiben und wünsche mir einen professionellen Auftritt. Ich möchte Beiträge über mich, meine reichhaltigen Interessen, meine Meinungen und Bekenntnisse, meine Empfehlungen, meine Muttersprache und über die Erfolge meiner Arbeit am Computer veröffentlichen und somit mit der Allgemeinheit teilen. Möglicherweise findet der eine oder andere Interesse an und für sich Verwertbares in meinen Beiträgen. Ich erhoffe mir – gerne auch kritische – Rückmeldungen. 
+Nach reiflicher Überlegung habe mich dazu entschlossen, einen Blog zu betreiben und wünsche mir einen professionellen Auftritt. Dabei verfolge ich keinerlei finanzieller Interessen. Ich möchte Beiträge über mich, meine reichhaltigen Interessen, meine Meinungen und Bekenntnisse, meine Empfehlungen, meine Muttersprache und über die Erfolge meiner Arbeit am Computer veröffentlichen und somit mit der Allgemeinheit teilen. Möglicherweise findet der eine oder andere Interesse an und für sich Verwertbares in meinen Beiträgen. Ich erhoffe mir – gerne auch kritische – Rückmeldungen. 
 
 Mein Auftritt soll meine Persönlichkeit unterstreichen: schlicht aber edel, nüchtern aber stilvoll, intellektuell, selbstbewusst und charakteristisch.  
 
@@ -12,7 +12,7 @@ Für die Frequenz meiner Beiträge peile ich einen Zyklus von etwa einem Beitrag
 
 Besonders großen Wert lege ich auf die Kommunikation mit meinen Besuchern.
 
-Für das primäre Format zur Texterfassung plane ich „Markdown“ zu verwenden. Für diesen Zweck den Html-Quelltext zu verwenden, ist mir zu unübersichtlich und „Markdown“ stellt einen guten Kompromiss zwischen der technischen Notwendigkeit der Auszeichnung und der erforderlichen Lesbarkeit dar. Das nachträgliche Feindesign (beispielsweise das Zuweisen der vorgesehenen Css-Klassen) kann ich aber auch im Html-Dokument selbst vornehmen, nachdem der Inhalt feststeht.
+Für das primäre Format zur Texterfassung plane ich [Markdown](https://de.wikipedia.org/wiki/Markdown) zu verwenden. Für diesen Zweck den Html-Quelltext zu verwenden, ist mir zu unübersichtlich und Markdown stellt einen guten Kompromiss zwischen der technischen Notwendigkeit der Auszeichnung und der erforderlichen Lesbarkeit dar. Das nachträgliche Feindesign (beispielsweise das Zuweisen der vorgesehenen Css-Klassen) kann ich aber auch im Html-Dokument selbst vornehmen, nachdem der Inhalt feststeht.
 
 ## 2 – Design
 
@@ -43,7 +43,7 @@ Ich plane mittelfristig meine bisherige Internetpräsenz in das neue Design von 
 In der jetzigen Form setzte ich viele, hoffentlich in der dafür vorgesehenen Form, Tabellen ein. Deren Gestaltung benötigt eine Auffrischung.
 
 * Gestaltung der Dokumention meiner Software-Bibliotheken  
-Auch hier wäre ein Zuschneiden Ihres Designs auf die besonderen Anforderungen erforderlich. Neben Verwendung einer „monospaced“-Schriftart (Ubuntu Mono?) benötige eine neue Farbklasse für die Hervorhebung von Schlüsselworten.
+Auch hier wäre ein Zuschneiden Ihres Designs auf die besonderen Anforderungen erforderlich. Neben Verwendung einer „monospaced“-Schriftart (Ubuntu Mono?) benötige eine neue Farbklasse für die Hervorhebung von Schlüsselworten. Anlehnen möchte mich an die [.Net-Dokumentation](https://learn.microsoft.com/de-de/dotnet/api/system.dateonly.-ctor?view=net-7.0#system-dateonly-ctor(system-int32-system-int32-system-int32)).
 
 Für beide Vorhaben werde ich Ihnen gesonderte Aufträge erteilen.
 
@@ -75,14 +75,14 @@ ich plane auf dieser Seite etwa fünf meiner letzten Beiträge vorzustellen. Dor
 
 ### 3.3 – Beiträge
 
-Ich möchte mich bei der Gestaltung meiner Beiträge an dem Layout der Papierausgabe von _Die Zeit_ orientieren. Also
+Ich möchte mich bei der Gestaltung meiner Beiträge an dem Layout der Papierausgabe von _Die Zeit_ orientieren [Beispiel](https://github.com/AcamatAcubens/Blog/blob/main/documents/DieZeit_2306.pdf). Also
 
 * Stichwort(e)
 * Überschrift
 * Kurzfassung
 * Text
 
-Die Stichworte würde ich gerne, ähnlich wie Tags mit einem Rahmen mit abgerundeten Ecken versehen. Dazu will ich die Schriftart „Ubuntu (Condensed?)“ einsetzen. [Beispiel:](https://learn.microsoft.com/de-de/dotnet/api/system.dateonly.tryparseexact?view=net-7.0#system-dateonly-tryparseexact(system-readonlyspan((system-char))-system-string()-system-dateonly@)) Bei den Parametern wie `formats`.
+Die Stichworte würde ich gerne, ähnlich wie Tags mit einem Rahmen mit abgerundeten Ecken versehen. Dazu will ich die Schriftart „Ubuntu (Condensed?)“ einsetzen. [Beispiel:](https://learn.microsoft.com/de-de/dotnet/api/system.dateonly.-ctor?view=net-7.0#system-dateonly-ctor(system-int32-system-int32-system-int32)) die Formatierung von „Parameter » year“.
 
 Für den ersten Absatz möchte ich ebenfalls Initiale verwenden. Bei den darauffolgenden Absätzen möchte ich die erste Zeile mit einem Einzug versehen. Auch möchte ich Zwischenüberschriften verwenden und die darauf folgenden Absätze sollen nicht einge­zogen werden.
 
