@@ -18,7 +18,7 @@ Für das primäre Format zur Texterfassung plane ich [Markdown](https://de.wikip
 
 ### 2.1 – Grafikdesign
 
-Ich wünsche mir ein dunkles Design, möchte aber kein reines Schwarz als Hintergrund­farbe verwenden. Auch möchte ich kein reines Weiß als Vordergrundfarbe nehmen. Ich nenne Ihnen einige Beispiele, die mir gut gefallen. Ich hoffe, das reicht Ihnen aus, sich einen Eindruck von meinen Vorstellungen zu verschaffen.
+Ich wünsche mir ein dunkles Design, möchte aber kein reines Schwarz als Hintergrund­farbe verwenden. Auch möchte ich kein reines Weiß als Vordergrundfarbe nehmen. Ich nenne Ihnen einige Beispiele, die mir gut gefallen. Ich hoffe, dass reicht Ihnen aus, sich einen Eindruck von meinen Vorstellungen zu verschaffen.
 
 * [Mein WebHoster](https://netbuild.net/)
 
@@ -63,17 +63,27 @@ Mein Blog soll im ersten Schritt folgende fünf Seiten enthalten:
 * Formular für E-Mail-Nachrichten
 * Impressum
 
-Jede dieser Seiten soll im linken Bereich auf die Hauptseite, die Übersichtsseite, das E-Mail-Formular und das Impressum verlinken.
+Jede dieser Seiten soll im linken Bereich auf die Hauptseite, die Übersichtsseite, das E-Mail-Formular(?) und das Impressum verlinken.
 
 ### 3.1 – Hauptseite
 
-Auf der Hauptseite benötige ich einen Titelbereich für meinen Nick, meinem Klar­textnamen. mein Profilfoto und möchte meinen Avatar und mein favicon weiterverwenden.
+Auf der Hauptseite benötige ich einen Titelbereich für meinen Nick, meinem Klar­textnamen, mein Profilfoto und möchte meinen Avatar und mein favicon weiterverwenden.
 
 ich plane auf dieser Seite etwa fünf meiner letzten Beiträge vorzustellen. Dort soll der Titel meines Beitrags, das Veröffentlichungsdatum, die Zusammenfassung und ein Zitat meines Beitrags in Form der reinen Absätze erscheinen; es entfällt also die Strukturierung der Beiträge. Insgesamt sehe ich eine Kürzung meines Beitrags auf einige Zeilen (fünf bis sieben) vor. Mir ist völlig bewusst, dass dies eine doppelte Pflege der Inhalte bedeutet. Das muss ich wohl oder übel in Kauf nehmen. Abschließend möchte ich eine Verlinkung auf den vollständigen Beitrag vornehmen. Dieses Element soll eine deutlich abgegrenz­te, gerahmte Einheit bilden.
 
 ### 3.2 – Übersicht
 
 ### 3.3 – Beiträge
+
+Zunächst plane ich folgende Kategorien/Rubriken meiner Beiträge:
+
+* Über mich und meine Interessen
+* Meine Meinungen und Bekenntnisse
+* Meine Empfehlungen
+* Meine Muttersprache
+* Meine Erfolge bei meiner Computerarbeit
+
+Zunächst möchte ich eine Beschreibung der Beitragskategorie voranstellen. Sie soll erläutern, welcher Art die Beiträge hier vertreten sind und welchen Antrieb und welches Ziel ich damit verfolge.
 
 Ich möchte mich bei der Gestaltung meiner Beiträge an dem Layout der Papierausgabe von _Die Zeit_ orientieren [Beispiel](https://github.com/AcamatAcubens/Blog/blob/main/documents/DieZeit_2306.pdf). Also
 
@@ -88,11 +98,11 @@ Für den ersten Absatz möchte ich ebenfalls Initiale verwenden. Bei den darauff
 
 Beiträge der Kategorie Empfehlungen enthalten auch Buch-Rezensionen. Dafür brauche eine Informationsbox für die Bezugsdaten.
 
-Noch nicht entschieden habe ich, ob ich auch das mehrspaltige Layout verwenden soll. Wohl eher nicht. Was ist Ihre Meinung dazu? Print ist schließlich nicht gleich Web. Für diesen Bereich traue ich durchaus zu, die Umsetzung selbst zu über­nehmen.
+Noch nicht entschieden habe ich, ob ich auch das mehrspaltige Layout verwenden soll. Wohl eher nicht. Was ist Ihre Meinung dazu? Print ist schließlich nicht gleich Web.
 
 ### 3.4 – Formular
 
-Ich bin tatsächlich unsicher, ob ich ein Formular verwenden soll. Nach meinem Empfinde, verzichte ich ungern auf meinen Texteditor bei der Erstellung (tatsächlich verwende ich ihn, lass ihn auf Korrektheit und überprüfen und kopiere in dann in das Textfeld). Was mich aber stört, dass ich über keine Dokumentation, wann ich was geschrieben habe. Das ist bei einer E-Mail-Nachricht anders. Sie landet nach dem Versendet im „Gesendet“-Ordner
+Ich bin tatsächlich unsicher, ob ich ein Formular verwenden soll. Nach meinem Empfinden, verzichte ich ungern auf meinen Texteditor bei der Erstellung (tatsächlich verwende ich ihn, lass ihn auf Korrektheit überprüfen und kopiere in dann in das Textfeld). Was mich aber stört, dass ich über keine Dokumentation, wann ich was geschrieben habe. Das ist bei einer E-Mail-Nachricht anders. Diese landet nach dem Versenden automatisch im „Gesendet“-Ordner
 
 Vielleicht es besser, nur eine deutliche Angabe über Verlinkung mit der Verwendung von „mailTo“ anzubieten, bei dessen Folgen sich der E-Mail-Client des Anwender öffnet. Es erspart Platz und ermöglicht ein direkteren Kontakt, anstatt zunächst eine neue Seite öffnen zu müssen. Das Spam-Risiko dürfte etwa ähnlich sein, denn in beiden Fällen ist die verwendete E-Mail-Adresse über den Quelltext der Seite einsehbar.
 
