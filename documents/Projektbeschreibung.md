@@ -7,6 +7,7 @@
 * [2.1 – Grafikdesign](#0201)
 * [2.1.1 – Hervorhebungsfarbe](#020101)
 * [2.1.2 – Hintergrundfarbe](#020102)
+* [2.1.3 – Das a-Element](#020103)
 * [2.1.? – Ausblicke](#0201__)
 * [2.2 – Typographie](#0202)
 * [3 – Grundgerüst](#03)
@@ -37,6 +38,14 @@ Für das primäre Format zur Texterfassung plane ich [Markdown](https://de.wikip
 Ich wünsche mir ein dunkles Design, möchte aber kein reines Schwarz als Hintergrund­farbe verwenden. Auch möchte ich kein reines Weiß als Vordergrundfarbe nehmen. Ich nenne Ihnen einige Beispiele, die mir gut gefallen. Ich hoffe, dass reicht Ihnen aus, sich einen Eindruck von meinen Vorstellungen zu verschaffen.
 
 * [Mein WebHoster](https://netbuild.net/)
+* [Zeever](https://wordpress.org/themes/zeever/)  
+Die konsequente Verwendung der Hervorhebungsfarbe gefällt mir. Das müsste man lediglich an meinen Farbton anpassen. Auch die deutliche Hervorhebung des aktiven Elements durch Invertieren der Farben ist eine Überlegung wert.
+* [Blockline](https://wordpress.org/themes/blockline/)  
+Dieser Entwurf kommt meinen Vorstellungen schon recht nahe. Besonders das Farbschema; der Blauton des Hintergrund sollte zu meiner Hervorhebungsfarbe schon recht gut passen.
+* [Building-Construction](https://wordpress.org/themes/building-construction/)  
+An diesem Entwurf gefällt mir die grafische Absetzung der einzelnen Elemente durch eine leicht geänderte Hintergrundfarbe. Dies könnte als Vorlage für die Zusammenfassung meiner neusten Beiträge auf der Hauptseite dienen. Wichtig ist mir übrigens: Die grafische Repräsentation der Elemente durch Verwendung einer Svg?-Grafik (wie hier das stilisierte „W“). Für die Linienfarbe der Symbole würde ich meine Hevorhebungsfarbe bevorzugen, wie bei [Zeever](https://wordpress.org/themes/zeever/).
+* [Spice-Software-Dark](https://wordpress.org/themes/spice-software-dark/)  
+Gefällt mir ebenso; besonders die Darstellung des Datum des Beitrags.
 
  #### <div id="020101">2.1.1 – Hervorhebungsfarbe
  
@@ -53,12 +62,24 @@ Ich wünsche mir ein dunkles Design, möchte aber kein reines Schwarz als Hinter
 
 Ich stelle mir für die Hintergrundfarbe einen sehr dunklen Blauton in verschiedenen Abstufungen vor. Dabei möchte ich auf Farbverläufe verzichten. Diese Abstufen sollen mir als grafische Unterstützung der Strukturierung dienen. Der Blauton meines [WebHoster](https://netbuild.net/) ist mir dabei deutlich zu hell. Lässt sich das ästhetisch mit der angestrebten Hervorhebungsfarbe vereinbaren?
 
+#### <div id="020103">2.1.3 – Das a-Element
+
+Als Einleitung meiner Recherche über das Thema _Suchmaschinenoptimierung_ habe ich eine Sitzung mit „ChatGgt“ abgehalten, um mir einen ersten Überblick zu verschaffen. Der Automat riet mir unter anderem:
+
+* Bauen Sie Backlinks von anderen hochwertigen Websites auf, um die Glaubwürdigkeit Ihrer Website zu stärken.
+
+Das möchte ich gerne umsetzen. Dabei gefällt mir die Umsetzung bei „Trello“. Ich möchte das „favicon“ der Site aber einen eigenen Anzeigetext (Ubuntu Condensed?) verwenden. Besonders wichtig erscheint mir das Vorschaufenster beim „Mouse-Over“, das mir beispielweise bei Artikel der Wikipedia vorbildlich gepflegt zu sein scheint. Der Besucher muss die verlinkte Seite nicht erst besuchen, um sich einen ersten Eindruck zu verschaffen.
+
+Sind sie mit der technischen Gegebenheiten soweit vertraut, dass Sie das für mein Design nachstellen können?
+
+Für site-interne Verlinkungen würde ich gerne diese an [Spice-Software-Dark](https://wordpress.org/themes/spice-software-dark/) anlehnen. Benötige ich eine gesonderte Vordergrundfarbe beim „Mouse-Over“ oder sollte ich wie in diesem Beispiel ebenfalls die Hervorhebungsfarbe als Hintergrundfarbe verwenden?
+
 #### <div id="0201__">2.1.? – Ausblicke
 
 Ich plane mittelfristig meine bisherige Internetpräsenz in das neue Design von Ihnen zu migrieren. Dazu benötige ich Ihre Hilfe für die
 
 * Gestaltung meiner Tabellen  
-In der jetzigen Form setzte ich viele, hoffentlich in der dafür vorgesehenen Form, Tabellen ein. Deren Gestaltung benötigt eine Auffrischung.
+In der jetzigen Form setzte ich viele, hoffentlich in der dafür vorgesehenen Weise, Tabellen ein. Deren Gestaltung benötigt eine Auffrischung.
 
 * Gestaltung der Dokumention meiner Software-Bibliotheken  
 Auch hier wäre ein Zuschneiden Ihres Designs auf die besonderen Anforderungen erforderlich. Neben Verwendung einer „monospaced“-Schriftart (Ubuntu Mono?) benötige eine neue Farbklasse für die Hervorhebung von Schlüsselworten. Anlehnen möchte mich an die [.Net-Dokumentation](https://learn.microsoft.com/de-de/dotnet/api/system.dateonly.-ctor?view=net-7.0#system-dateonly-ctor(system-int32-system-int32-system-int32)).
@@ -87,7 +108,7 @@ Jede dieser Seiten soll im linken Bereich auf die Hauptseite, die Übersichtssei
 
 Auf der Hauptseite benötige ich einen Titelbereich für meinen Nick, meinem Klar­textnamen, mein Profilfoto und möchte meinen Avatar und mein favicon weiterverwenden.
 
-ich plane auf dieser Seite etwa fünf meiner letzten Beiträge vorzustellen. Dort soll der Titel meines Beitrags, das Veröffentlichungsdatum, die Zusammenfassung und ein Zitat meines Beitrags in Form der reinen Absätze erscheinen; es entfällt also die Strukturierung der Beiträge. Insgesamt sehe ich eine Kürzung meines Beitrags auf einige Zeilen (fünf bis sieben) vor. Mir ist völlig bewusst, dass dies eine doppelte Pflege der Inhalte bedeutet. Das muss ich wohl oder übel in Kauf nehmen. Abschließend möchte ich eine Verlinkung auf den vollständigen Beitrag vornehmen. Dieses Element soll eine deutlich abgegrenz­te, gerahmte Einheit bilden.
+Ich plane auf dieser Seite etwa fünf meiner letzten Beiträge vorzustellen. Dort soll der Titel meines Beitrags, das Veröffentlichungsdatum, die Zusammenfassung und ein Zitat meines Beitrags in Form der reinen Absätze erscheinen; es entfällt also die Strukturierung der Beiträge. Insgesamt sehe ich eine Kürzung meines Beitrags auf einige Zeilen (fünf bis sieben) vor. Mir ist völlig bewusst, dass dies eine doppelte Pflege der Inhalte bedeutet. Das muss ich wohl oder übel in Kauf nehmen. Abschließend möchte ich eine Verlinkung auf den vollständigen Beitrag vornehmen. Dieses Element soll eine deutlich abgegrenz­te, gerahmte Einheit bilden.
 
 ### <div id="0302">3.2 – Übersicht
 
