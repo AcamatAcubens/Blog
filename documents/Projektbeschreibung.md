@@ -55,12 +55,13 @@ Gefällt mir ebenso; besonders die Darstellung des Datum des Beitrags.
  * [Initiale](https://de.wikipedia.org/wiki/Initiale)
  * Fettmarken
  * Rahmenfarbe zur Hervorhebung des aktuellen Elementes
+ * Interne Verlinkungen
  
  Ich würde gerne die meiner jetzigen Präsenz weiterverwenden: `#FFA51E`. Dazu benötige ich einen passenden Dunkelblauton als Hintergrund. Es wäre Ihre Aufgabe, eine entsprechende Abstimmung vorzunehmen.
 
 #### <div id="020102">2.1.2 – Hintergrundfarbe
 
-Ich stelle mir für die Hintergrundfarbe einen sehr dunklen Blauton in verschiedenen Abstufungen vor. Dabei möchte ich auf Farbverläufe verzichten. Diese Abstufen sollen mir als grafische Unterstützung der Strukturierung dienen. Der Blauton meines [WebHoster](https://netbuild.net/) ist mir dabei deutlich zu hell. Lässt sich das ästhetisch mit der angestrebten Hervorhebungsfarbe vereinbaren?
+Ich stelle mir für die Hintergrundfarbe einen sehr dunklen Blauton in verschiedenen Abstufungen vor. Dabei möchte ich auf Farbverläufe verzichten. Diese Abstufen sollen mir als grafische Unterstützung der Strukturierung dienen. Der Blauton von [Blockline](https://wordpress.org/themes/blockline/) kommt meinen Vorstellungen schon recht nahe. Lässt sich das ästhetisch mit der angestrebten Hervorhebungsfarbe vereinbaren?
 
 #### <div id="020103">2.1.3 – Das a-Element
 
@@ -70,7 +71,7 @@ Als Einleitung meiner Recherche über das Thema _Suchmaschinenoptimierung_ habe 
 
 Das möchte ich gerne umsetzen. Dabei gefällt mir die Umsetzung bei „Trello“. Ich möchte das „favicon“ der Site aber einen eigenen Anzeigetext (Ubuntu Condensed?) verwenden. Besonders wichtig erscheint mir das Vorschaufenster beim „Mouse-Over“, das mir beispielweise bei Artikel der Wikipedia vorbildlich gepflegt zu sein scheint. Der Besucher muss die verlinkte Seite nicht erst besuchen, um sich einen ersten Eindruck zu verschaffen.
 
-Sind sie mit der technischen Gegebenheiten soweit vertraut, dass Sie das für mein Design nachstellen können?
+Sind Sie mit der technischen Gegebenheiten soweit vertraut, dass Sie das für mein Design nachstellen können?
 
 Für site-interne Verlinkungen würde ich gerne diese an [Spice-Software-Dark](https://wordpress.org/themes/spice-software-dark/) anlehnen. Benötige ich eine gesonderte Vordergrundfarbe beim „Mouse-Over“ oder sollte ich wie in diesem Beispiel ebenfalls die Hervorhebungsfarbe als Hintergrundfarbe verwenden?
 
