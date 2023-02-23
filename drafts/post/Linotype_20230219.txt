@@ -1,0 +1,20 @@
+﻿Von: Carsten Alexander <carsten.alexander@acamat.de>
+Gesendet: Dienstag, 31. Januar 2023 08:35
+An: info@linotype.com
+Betreff: Die Schriftfamilie „Warnock“
+
+Guten Morgen,
+
+ich habe mich entschieden, einen eigenen Blog zu betreiben und wünsche mir einen professionellen Auftritt. Mir ist bewusst, welche Rolle auch die Typographie dabei spielt. Ich habe mich für den Einsatz der Schriftfamilie „Warnock“ entschieden. Da meine finanziellen Mittel gegrenzt sind, möchte ich mich auf wenige Schriftschnitte beschränken und halte einen Stückpreis von etwa 40 € für mich erschwinglich. Diese sind: Regular, Bold, Italic und möglicherweise auch Bold Caption für die Überschriften.
+
+Meine konkreten Fragen sind nun:
+
+· Wahl der konkreten Schriften
+Es gibt eine große Auswahl; sind Schriften der Kategorie „Display“ besonders für die Verwendung im Internet geeignet?
+
+· Empfohlene Einbettung
+Wie ist die empfohlene Vorgehensweise, diese Schriften in meine Site einzubetten?
+
+-- 
+Mit freundlichen Grüßen,
+Carsten Alexander

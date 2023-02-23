@@ -8,6 +8,8 @@
 * [2.1.1 – Hervorhebungsfarbe](#020101)
 * [2.1.2 – Hintergrundfarbe](#020102)
 * [2.1.3 – Das a-Element](#020103)
+* [2.1.4 – Das cite-Element](#020104)
+* [2.1.5 – Das li-Element](2020105)
 * [2.1.? – Ausblicke](#0201__)
 * [2.2 – Typographie](#0202)
 * [3 – Grundgerüst](#03)
@@ -63,7 +65,7 @@ Gefällt mir ebenso; besonders die Darstellung des Datum des Beitrags.
 
 Ich stelle mir für die Hintergrundfarbe einen sehr dunklen Blauton in verschiedenen Abstufungen vor. Dabei möchte ich auf Farbverläufe verzichten. Diese Abstufen sollen mir als grafische Unterstützung der Strukturierung dienen. Der Blauton von [Blockline](https://wordpress.org/themes/blockline/) kommt meinen Vorstellungen schon recht nahe. Lässt sich das ästhetisch mit der angestrebten Hervorhebungsfarbe vereinbaren?
 
-#### <div id="020103">2.1.3 – Das a-Element
+#### <div id="020103">2.1.3 – Das `a`-Element
 
 Als Einleitung meiner Recherche über das Thema _Suchmaschinenoptimierung_ habe ich eine Sitzung mit „ChatGgt“ abgehalten, um mir einen ersten Überblick zu verschaffen. Der Automat riet mir unter anderem:
 
@@ -74,6 +76,16 @@ Das möchte ich gerne umsetzen. Dabei gefällt mir die Umsetzung bei „Trello�
 Sind Sie mit der technischen Gegebenheiten soweit vertraut, dass Sie das für mein Design nachstellen können?
 
 Für site-interne Verlinkungen würde ich gerne diese an [Spice-Software-Dark](https://wordpress.org/themes/spice-software-dark/) anlehnen. Benötige ich eine gesonderte Vordergrundfarbe beim „Mouse-Over“ oder sollte ich wie in diesem Beispiel ebenfalls die Hervorhebungsfarbe als Hintergrundfarbe verwenden?
+
+#### <div id="020104">2.1.4 – Das `cite`-Element
+
+Ihr Vorschlag 
+
+#### <div id="020105">2.1.5 – Das `li`-Element
+
+Ich verwende gerne ungeordnete Listen. Für die typografische Darstellung schlage ich der Verwendung der Schlüsselworte vor. Die Liste soll eingerückt sein; entsprechend dem Einzug beim `p`-Element, wobei der Einzug vom Aufzählungszeichen und nicht vom Aufzählungstext bestimmt wird. Als Aufzählungszeichen möchte ich [Bullet](https://symbl.cc/de/2022/) verwenden.
+
+Da ich gelegentlich einen (selten auch mehrere) Absatz zur Erläuterung verwende, benötige ich eine spezielle `p`-Klasse. Allerdings soll hier nicht nur die erste Zeile, sondern der gesamte Absatz eingezogen werden. Die Breite des Einzugs richtet sich nach dem Einzug des Listenelement-Texts.
 
 #### <div id="0201__">2.1.? – Ausblicke
 
